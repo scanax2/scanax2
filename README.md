@@ -19,7 +19,7 @@ I am a .NET developer with a Bachelor of Engineering (B.E.) in Computer Science.
 - Identity and Access Management (IAM): Keycloak
 - Unity: Entitas (ECS), UniTask, Zenject
 - Other tools: Azure, Docker, Git, Perforce, Visual Studio, UML
-- Software Development Principles and Methodologies: SOLID, DDD, TDD
+- Software Development Principles and Methodologies: SOLID, GoF design patterns, DDD, TDD
 - Architectural patterns: Clean Architecture, CQRS, REST
 
 <!--
