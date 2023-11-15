@@ -19,6 +19,8 @@ I am a .NET developer with a Bachelor of Engineering (B.E.) in Computer Science.
 - Identity and Access Management (IAM): Keycloak
 - Unity: Entitas (ECS), UniTask, Zenject
 - Other tools: Azure, Docker, Git, Perforce, Visual Studio, UML
+- Software Development Principles and Methodologies: SOLID, DDD, TDD
+- Architectural patterns: Clean Architecture, CQRS, REST
 
 <!--
 **scanax2/scanax2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
