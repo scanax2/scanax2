@@ -12,10 +12,10 @@
 I am a .NET developer with a Bachelor of Engineering (B.E.) in Computer Science. Passionate about software development, I thoroughly enjoy utilizing my skills to create solutions for complex problems. Actively seeking out new challenges, I am committed to continuous improvement and staying current with industry trends.
 
 ## Tech stack
-- .NET: C#, ASP.NET Core (MVC and API), EF Core, MediatR, FluentValidation, AutoMapper, NLog, Newtonsoft.Json, TPL
+- .NET: C#, ASP.NET Core (MVC and Web API), Entity Framework, MediatR, FluentValidation, AutoMapper, TPL
 - Testing: NUnit, NSubstitute, xUnit
 - Databases (SQL/NoSQL): MS SQL Server, ArangoDB
-- Frontend: HTML, CSS, JavaScript, jQuery, Bootstrap
+- Web: HTML, CSS, JavaScript
 - Identity and Access Management (IAM): Keycloak
 - Unity: Entitas (ECS), UniTask, Zenject
 - Other tools: Azure, Docker, Git, Perforce, Visual Studio, UML
