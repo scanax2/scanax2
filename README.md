@@ -14,7 +14,7 @@ I am a .NET developer with a Bachelor of Engineering (B.E.) in Computer Science.
 ## Tech stack
 - .NET: C#, ASP.NET Core (MVC and Web API), Entity Framework, MediatR, FluentValidation, AutoMapper, TPL
 - Testing: NUnit, NSubstitute, xUnit
-- Databases (SQL/NoSQL): MS SQL Server, ArangoDB
+- Databases: MS SQL Server, ArangoDB
 - Web: HTML, CSS, JavaScript
 - Identity and Access Management (IAM): Keycloak
 - Unity: Entitas (ECS), UniTask, Zenject
