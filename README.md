@@ -15,8 +15,7 @@ I am a .NET developer with a Bachelor of Engineering (B.E.) in Computer Science.
 - .NET: C#, ASP.NET Core (MVC and Web API), Entity Framework, MediatR, FluentValidation, AutoMapper, TPL
 - Testing: NUnit, NSubstitute, xUnit
 - Databases: MS SQL Server, ArangoDB
-- Web: HTML, CSS, JavaScript
-- Identity and Access Management (IAM): Keycloak
+- Web: React, JavaScript, HTML, Tailwind, CSS
 - Unity: Entitas (ECS), UniTask, Zenject
 - Other tools: Azure, Docker, Git, Perforce, Visual Studio, UML
 - Software Development Principles and Methodologies: SOLID, GoF design patterns, DDD, TDD
